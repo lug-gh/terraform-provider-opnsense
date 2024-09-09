@@ -1,5 +1,5 @@
 **/main.tf
-terraform-provider-opnsense
-terraform.tfstate
-go.mod
-go.sum
+**/terraform-provider-opnsense
+**/terraform.tfstate
+**/go.mod
+**/go.sum
